@@ -1,6 +1,6 @@
-"Não há certezas, apenas oportunidades." (V de Vingança)
-"Diga ’olá’ para meu pequeno amigo!" (Scarface)
-"Hasta la vista, baby." (Exterminador do Futuro 2)
+Não há certezas, apenas oportunidades. (V de Vingança)
+Diga ’olá’ para meu pequeno amigo! (Scarface)
+Hasta la vista, baby." (Exterminador do Futuro 2)
 
 Nova linha...
 
@@ -8,5 +8,7 @@ Outra linha
 
 Mais outra...
 
-"Um lennister sempre paga sua dívida!" (Games of Thrones) 
-"Nos encontraremos em Valhalla" (Vikings)
+Um lennister sempre paga sua dívida! (Games of Thrones) 
+Nos encontraremos em Valhalla (Vikings)
+
+nova linha em 13-05-2019
